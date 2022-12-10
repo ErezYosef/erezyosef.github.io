@@ -6,7 +6,7 @@ description:  collection of your confs.
 nav: true
 nav_order: 2
 display_categories: [2022]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
