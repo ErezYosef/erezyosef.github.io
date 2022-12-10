@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: confs
+permalink: /confs/
+description:  collection of your confs.
 nav: false
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [conferences]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
