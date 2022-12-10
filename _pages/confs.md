@@ -1,16 +1,16 @@
 ---
 layout: page
-title: confs
+title: conferences
 permalink: /confs/
 description:  collection of your confs.
-nav: false
+nav: true
 nav_order: 2
-display_categories: [conferences]
+display_categories: [2022]
 horizontal: true
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
+<div class="confs">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
