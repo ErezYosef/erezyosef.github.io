@@ -9,6 +9,7 @@ profile:
   image: _G3A6675_4c.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>Faculty of Engineering, 6997801.</p>
     <p>Tel Aviv, Israel.</p>
 
 news: false  # includes a list of news items
