@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Erez Yosef publications in reversed chronological order.
-years: [2022, 2021, 1967, 1956, 1950, 1935, 1905]
+years: [2022, 2021]
 nav: true
 nav_order: 1
 ---
