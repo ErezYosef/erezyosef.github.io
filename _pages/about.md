@@ -19,7 +19,7 @@ Electrical Engineering PhD student under the supervision of Prof. <a href='https
 
 I research computer vision algorithms with the camera design and imaging process. 
 
-You can see my [publications](/erezyosef/publications/).
+You can see my [publications](/publications/).
 
 <!-- 
 and the [conferences](/erezyosef/publications/) I attended.
