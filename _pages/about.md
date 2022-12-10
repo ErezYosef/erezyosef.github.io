@@ -8,9 +8,7 @@ profile:
   align: right
   image: _G3A6675_4c.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Faculty of Engineering, 6997801.</p>
-    <p>Tel Aviv, Israel.</p>
+  address: 
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
