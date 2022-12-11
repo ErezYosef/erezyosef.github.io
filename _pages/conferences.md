@@ -2,8 +2,8 @@
 layout: page
 title: Conferences
 permalink: /conferences/
-description:  collection of your confs.
-nav: false
+description: 
+nav: true
 nav_order: 2
 display_categories: [2022]
 horizontal: true
