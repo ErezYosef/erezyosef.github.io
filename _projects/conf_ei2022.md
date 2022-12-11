@@ -3,7 +3,7 @@ layout: page
 title: Electronic Imaging 2022
 description: Machine Learning for Scientific Imaging, january 2022.
 img: assets/img/confs/EI2022.jpg
-importance: 1
+importance: -1
 category: 2022
 redirect: \#
 ---
