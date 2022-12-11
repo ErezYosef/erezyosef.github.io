@@ -5,7 +5,7 @@ description: Machine Learning for Scientific Imaging, january 2022.
 img: assets/img/confs/EI2022.jpg
 importance: 1
 category: 2022
-redirect: #
+redirect: \#
 ---
 
 Every project has a beautiful feature showcase page.

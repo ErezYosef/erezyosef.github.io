@@ -2,7 +2,8 @@
 layout: page
 title: SIAM 2022
 description: SIAM Conference on Imaging Science. March 2022.
-importance: 2
+img: assets/img/confs/IS22.png
+importance: -2
 category: 2022
 ---
 

@@ -4,7 +4,7 @@ title: EI 1
 description: a EI conf with a background image
 img: assets/img/12.jpg
 importance: 1
-category: 2022
+category: 2050
 ---
 
 Every project has a beautiful feature showcase page.
