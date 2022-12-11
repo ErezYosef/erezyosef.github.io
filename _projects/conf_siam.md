@@ -1,8 +1,7 @@
 ---
 layout: page
-title: SIAM
-description: a EI conf with a background image
-img: assets/img/12.jpg
+title: SIAM 2022
+description: SIAM Conference on Imaging Science. March 2022.
 importance: 2
 category: 2022
 ---
