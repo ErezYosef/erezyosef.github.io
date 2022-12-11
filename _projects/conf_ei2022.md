@@ -1,10 +1,11 @@
 ---
 layout: page
-title: EI 1
-description: a EI conf with a background image
-img: assets/img/12.jpg
+title: Electronic Imaging 2022
+description: Electronic Imaging 2022
+img: assets/img/confs/EI2022.jpg
 importance: 1
 category: 2022
+redirect: 
 ---
 
 Every project has a beautiful feature showcase page.
