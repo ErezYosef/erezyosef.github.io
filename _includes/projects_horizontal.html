@@ -2,7 +2,8 @@
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
   {%- else -%}
-  <a href="{{ project.url | relative_url }}">
+  <a>
+    <!-- href="{{ project.url | relative_url }}" -->
   {%- endif -%}
     <div class="card hoverable">
       <div class="row g-0">
