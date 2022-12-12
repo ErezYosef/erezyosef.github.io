@@ -2,7 +2,7 @@
 layout: page
 title: Oasis8
 description: International Conference and Exhibition on Optics and Electro-Optics. Tel Aviv, December 2022.
-img: assets/img/confs/eccv22.png
+img: assets/img/confs/oasis8.webp
 importance: -5
 category: 2022
 undirect: true
