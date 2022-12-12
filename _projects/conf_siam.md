@@ -5,6 +5,7 @@ description: SIAM Conference on Imaging Science. March 2022.
 img: assets/img/confs/IS22.png
 importance: -2
 category: 2022
+undirect: true
 ---
 
 Every project has a beautiful feature showcase page.
