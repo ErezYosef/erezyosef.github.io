@@ -1,10 +1,11 @@
 ---
 layout: page
-title: EI 1
-description: a EI conf with a background image
-img: assets/img/12.jpg
-importance: 1
-category: 2050
+title: Optica Publishing Group
+description: Imaging and Applied Optics Congress. Vancouver, July 2022.
+img: assets/img/confs/Optica-logo.png.jpg
+importance: -3
+category: 2022
+redirect: /conferences
 ---
 
 Every project has a beautiful feature showcase page.

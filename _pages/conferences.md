@@ -2,7 +2,7 @@
 layout: page
 title: Conferences
 permalink: /conferences/
-description: List of the conferences I attended and presented our works.
+description: List of conferences where I presented our works.
 nav: true
 nav_order: 2
 display_categories: [2022]
