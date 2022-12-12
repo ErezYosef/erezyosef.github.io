@@ -5,7 +5,7 @@ description: Imaging and Applied Optics Congress. Vancouver, July 2022.
 img: assets/img/confs/Optica-logo.png
 importance: -3
 category: 2022
-redirect: /conferences
+undirect: true
 ---
 
 Every project has a beautiful feature showcase page.

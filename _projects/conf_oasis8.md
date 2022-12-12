@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ECCV 2022
-description: European Conference on Computer Vision, demo session. Tel Aviv, October 2022.
+title: Oasis8
+description: International Conference and Exhibition on Optics and Electro-Optics. Tel Aviv, December 2022.
 img: assets/img/confs/eccv22.png
-importance: -4
+importance: -5
 category: 2022
-redirect: /conferences
+undirect: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Electronic Imaging 2022
-description: Machine Learning for Scientific Imaging, January 2022.
-img: assets/img/confs/EI2022.jpg
-importance: -1
+title: ECCV 2022
+description: European Conference on Computer Vision, demo session. Tel Aviv, October 2022.
+img: assets/img/confs/eccv22.png
+importance: -4
 category: 2022
 undirect: true
 ---
