@@ -1,7 +1,7 @@
 <div class="card-item col">
   {%- if project.redirect -%}
   <a href="{{ project.redirect }}">
-  {%- if project.undirect -%}
+  {%- elsif project.undirect -%}
   <a >
   {%- else -%}
   <a href="{{ project.url | relative_url }}">
