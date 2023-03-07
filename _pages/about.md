@@ -6,7 +6,7 @@ subtitle: Computer Vision and Computational Photography Researcher.
 
 profile:
   align: right
-  image: _G3A6675_4c.jpg
+  image: 4c_myio_site.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
