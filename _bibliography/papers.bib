@@ -43,18 +43,19 @@ selected={false}
   year={2023},
   abstract={Video reconstruction from a single motion-blurred image is a challenging problem, which can enhance the capabilities of existing cameras. Recently, several works addressed this task using conventional imaging and deep learning. Yet, such purely digital methods are inherently limited, due to direction ambiguity and noise sensitivity. Some works attempt to address these limitations with non-conventional image sensors, however, such sensors are extremely rare and expensive. To circumvent these limitations by simpler means, we propose a hybrid optical-digital method for video reconstruction that requires only simple modifications to existing optical systems. We use learned dynamic phase-coding in the lens aperture during image acquisition to encode motion trajectories, which serve as prior information for the video reconstruction process. The proposed computational camera generates a sharp frame burst of the scene at various frame rates from a single coded motion-blurred image, using an image-to-video convolutional neural network. We present advantages and improved performance compared to existing methods, with both simulations and a real-world camera prototype. We extend our optical coding to video frame interpolation and present robust and improved results for noisy videos.},
   publisher={Nature Publishing Group UK London},
-  html = {https://www.nature.com/articles/s41598-023-40297-0},
+  paper = {https://www.nature.com/articles/s41598-023-40297-0},
   selected={true},
   preview={2_lrn.png}
 }
 
 @article{hadad2023deep,
+  bibtex_show={true},
   abbr={Journal of Optics},
   title={Deep learning in optics-a tutorial},
   author={Hadad, Barak and Froim, Sahar and Yosef, Erez and Giryes, Raja and Bahabad, Alon},
   journal={Journal of Optics},
   year={2023},
-  html = {https://iopscience.iop.org/article/10.1088/2040-8986/ad08dc},
+  paper = {https://iopscience.iop.org/article/10.1088/2040-8986/ad08dc},
   doi = {10.1088/2040-8986/ad08dc},
   abstract={In recent years, machine learning and deep neural networks applications have experienced a remarkable surge in the field of physics, with optics being no exception. This tutorial aims to offer a fundamental introduction to the utilization of deep learning in optics, catering specifically to newcomers. Within this tutorial, we cover essential concepts, survey the field, and provide guidelines for the creation and deployment of artificial neural network architectures tailored to optical problems.},
   selected={true},
@@ -65,6 +66,8 @@ selected={false}
   title={Mind The Edge: Refining Depth Edges in Sparsely-Supervised Monocular Depth Estimation},
   author={Talker, Lior and Cohen, Aviad and Yosef, Erez and Dana, Alexandra and Dinerstein, Michael},
   journal={arXiv preprint arXiv:2212.05315},
+  abstract={Monocular Depth Estimation (MDE) is a fundamental problem in computer vision with numerous applications. Recently, LIDAR-supervised methods have achieved remarkable per-pixel depth accuracy in outdoor scenes. However, significant errors are typically found in the proximity of depth discontinuities, i.e., depth edges, which often hinder the performance of depth-dependent applications that are sensitive to such inaccuracies, e.g., novel view synthesis and augmented reality. Since direct supervision for the location of depth edges is typically unavailable in sparse LIDAR-based scenes, encouraging the MDE model to produce correct depth edges is not straightforward. To the best of our knowledge this paper is the first attempt to address the depth edges issue for LIDAR-supervised scenes. In this work we propose to learn to detect the location of depth edges from densely-supervised synthetic data, and use it to generate supervision for the depth edges in the MDE training. %Despite the 'domain gap' between synthetic and real data, we show that depth edges that are estimated directly are significantly more accurate than the ones that emerge indirectly from the MDE training. To quantitatively evaluate our approach, and due to the lack of depth edges ground truth in LIDAR-based scenes, we manually annotated subsets of the KITTI and the DDAD datasets with depth edges ground truth. We demonstrate significant gains in the accuracy of the depth edges with comparable per-pixel depth accuracy on several challenging datasets.},
   year={2022},
+  paper={https://arxiv.org/abs/2212.05315},
   selected={false}
 }
