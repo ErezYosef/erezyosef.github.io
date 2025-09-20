@@ -70,7 +70,8 @@ selected={false}
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   abstract={Monocular Depth Estimation (MDE) is a fundamental problem in computer vision with numerous applications. Recently, LIDAR-supervised methods have achieved remarkable per-pixel depth accuracy in outdoor scenes. However, significant errors are typically found in the proximity of depth discontinuities, i.e., depth edges, which often hinder the performance of depth-dependent applications that are sensitive to such inaccuracies, e.g., novel view synthesis and augmented reality. Since direct supervision for the location of depth edges is typically unavailable in sparse LIDAR-based scenes, encouraging the MDE model to produce correct depth edges is not straightforward. To the best of our knowledge this paper is the first attempt to address the depth edges issue for LIDAR-supervised scenes. In this work we propose to learn to detect the location of depth edges from densely-supervised synthetic data, and use it to generate supervision for the depth edges in the MDE training. %Despite the 'domain gap' between synthetic and real data, we show that depth edges that are estimated directly are significantly more accurate than the ones that emerge indirectly from the MDE training. To quantitatively evaluate our approach, and due to the lack of depth edges ground truth in LIDAR-based scenes, we manually annotated subsets of the KITTI and the DDAD datasets with depth edges ground truth. We demonstrate significant gains in the accuracy of the depth edges with comparable per-pixel depth accuracy on several challenging datasets.},
   year={2024},
-  paper={https://arxiv.org/abs/2212.05315},
+  paper={https://openaccess.thecvf.com/content/CVPR2024/papers/Talker_Mind_The_Edge_Refining_Depth_Edges_in_Sparsely-Supervised_Monocular_Depth_CVPR_2024_paper.pdf},
+  code={https://github.com/liortalker/MindTheEdge},
   selected={true}
 }
 @article{yosef2025difuzcam,
@@ -85,11 +86,13 @@ selected={false}
 @article{yosef2025tell,
   bibtex_show={true},
   abbr={IEEE OJSP},
-  title={Tell me what you see: Text-guided real-world image denoising},
+  title={Tell Me What You See: Text-Guided Real-World Image Denoising},
   author={Yosef, Erez and Giryes, Raja},
   journal={IEEE Open Journal of Signal Processing},
   year={2025},
   abstract={Image reconstruction from noisy sensor measurements is challenging and many methods have been proposed for it. Yet, most approaches focus on learning robust natural image priors while modeling the scene's noise statistics. In extremely low-light conditions, these methods often remain insufficient. Additional information is needed, such as multiple captures or, as suggested here, scene description. As an alternative, we propose using a text-based description of the scene as an additional prior, something the photographer can easily provide. Inspired by the remarkable success of text-guided diffusion models in image generation, we show that adding image caption information significantly improves image denoising and reconstruction for both synthetic and real-world images. All code and data will be made publicly available upon publication.},
+  paper={https://ieeexplore.ieee.org/document/11078899},
+  code={https://github.com/ErezYosef/Tell-Me-What-You-See},
   selected={true}
 }
 
@@ -102,7 +105,7 @@ selected={false}
   volume = {0},
   number = {0},
   pages = {null},
-  year = {0},
+  year = {2025},
   doi = {10.1021/acsphotonics.5c01384},
   paper = {https://doi.org/10.1021/acsphotonics.5c01384},
   abstract = {Metasurfaces are ultrathin optical elements composed of engineered subwavelength structures that enable precise control of light. Their inverse design─determining a geometry that yields a desired optical response─is challenging due to the complex, nonlinear relationship between structure and optical properties. This often requires expert tuning, is prone to local minima, and involves significant computational overhead. In this work, we address these challenges by integrating the generative capabilities of diffusion models into computational design workflows. Using an RCWA simulator, we generate training data consisting of metasurface geometries and their corresponding far-field scattering patterns. We then train a conditional diffusion model to predict meta-atom geometry and height from a target spatial power distribution at a specified wavelength, sampled from a continuous supported band. Once trained, the model can generate metasurfaces with low error, either directly using RCWA-guided posterior sampling or by serving as an initializer for traditional optimization methods. We demonstrate our approach on the design of a spatially uniform intensity splitter and a polarization beam splitter, both produced with low error in under 30 min. To support further research in data-driven metasurface design, we publicly release our code and data sets.},
