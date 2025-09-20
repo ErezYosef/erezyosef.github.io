@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Vision and Computational Photography Researcher.
+subtitle: AI & Computer Vision Researcher
 
 profile:
   align: right
@@ -15,11 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Electrical Engineering PhD student under the supervision of Prof. <a href='https://www.giryes.sites.tau.ac.il/'>Raja Giryes</a> at <a href='https://english.tau.ac.il/'>Tel-Aviv University</a>.
+PhD student in Electrical Engineering at <a href='https://english.tau.ac.il/'>Tel-Aviv University</a>, supervised by Prof. <a href='https://www.giryes.sites.tau.ac.il/'>Raja Giryes</a>.
 
-I research computer vision algorithms with the camera design and imaging process. 
+I develop AI and computer vision algorithms that integrate camera design with advanced imaging processes, pushing the boundaries of computational photography.
 
-You can see my [publications](/publications/).
+Check out my [publications](/publications/) and <a href='https://scholar.google.com/citations?user=NOIkjY8AAAAJ&hl'>Google Scholar</a> for detailed insights into my research.
 
 <!-- 
 and the [conferences](/erezyosef/publications/) I attended.
